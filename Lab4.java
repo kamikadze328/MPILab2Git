@@ -19,4 +19,5 @@ public class Lab4 {
   a.t18(c);
   }
 }
-previous : 8
+previous : 9
+previous : 12
